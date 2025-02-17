@@ -1,5 +1,9 @@
 # YANA PYSETSKA 
-
+## New Skills 🚀
+- Python Basics [Portfolio](https://github.com/YanaPysetska/PYTHON.git)
+- Selenium Automation [Portfolio](https://github.com/YanaPysetska/SELENIUM.git)
+- API Automation 
+  
 ## About Me ✨
 My name is Yana, I’m a QA Engineer with 5+ years of experience in testing UI, APIs, and databases across different devices. I make sure every product is fully tested and easy to use. I’m always excited to learn new technologies to improve my workflow.  
 I value good relationships in a team and respect everyone’s boundaries. I love working with people and sharing practical solutions. In my past projects, I’ve successfully handled challenging deadlines and delivered high-quality results. I’m driven, ambitious, and ready to work hard to achieve results with an inspiring team.
@@ -62,7 +66,3 @@ I value good relationships in a team and respect everyone’s boundaries. I love
 - [**QA Automation** - Hillel IT School](https://drive.google.com/file/d/1SIP0gGIXwdofghKIicd4yd6cvb4tAVAv/view?usp=sharing)
 - [**Selenium WebDriver with Python from Scratch + Frameworks**](https://drive.google.com/file/d/1jURRhNveLEBk6rrjb8wR1x75srnIfGXX/view?usp=sharing)
 
-## New Skills 🚀
-- Python Basics [Portfolio](https://github.com/YanaPysetska/PYTHON.git)
-- Selenium Automation [Portfolio](https://github.com/YanaPysetska/SELENIUM.git)
-- API Automation (in progress...)
